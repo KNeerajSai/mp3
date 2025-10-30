@@ -1,0 +1,5 @@
+[dotenv@17.2.3] injecting env (2) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+Server running on port 3002
+(node:95065) [DEP0170] DeprecationWarning: The URL mongodb://kondaveetineeraj1_db_user:SOEzyKz1v8A6DOq4@ac-0kwx8jm-shard-00-01.icezw7h.mongodb.net:27017,ac-0kwx8jm-shard-00-02.icezw7h.mongodb.net:27017,ac-0kwx8jm-shard-00-00.icezw7h.mongodb.net:27017/mp3-todo-api?authSource=admin&replicaSet=atlas-xafw9u-shard-0&retryWrites=true&w=majority&appName=mp3&ssl=true is invalid. Future versions of Node.js will throw an error.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:95065) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
